@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Manjari:wght@100;400&family=Montserrat:wght@100;400;600&family=Open+Sans:ital,wght@0,300;0,700;1,300;1,700&family=Rubik+Maps&display=swap');
+
+
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Montserrat', sans-serif;
+}
+
+.homepage {
+    .hero {
+       
+        width: 100%;
+        height: 100%;
+        border-radius: 0;
+    }
+
+    h1 {
+        font-size: 5.5em;
+        font-weight: bold;
+        padding-top: 1em;
+        // padding-bottom: 1em;
+        background-color: #95c3d3;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        // font-family: 'Rubik Maps', system-ui;
+        letter-spacing: 1px;
+        margin: 0;
+    }
+
+    h2 {
+        font-size: 3em;
+        font-weight: bold;
+        padding-top: 1em;
+        text-align: center;
+        
+    }
+
+    img.updates {
+        border-radius: .5em;
+        padding: 1em ;
+        margin-top: 2em;
+        
+    }
+
+    p.homeP {
+        text-align: center;
+        padding: 1.5em 10em;
+        font-size: 16px;
+    }
+
+}
+
+#searcharea {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #95c3d3;
+    label {
+        margin-top: 1em;
+        font-size: 2em;
+        font-weight: bold;
+        color:white;
+    }
+    p {
+        margin-top: 1em;
+        color: rgb(253, 255, 198);
+
+    }
+    input {
+        margin-bottom: 2em;
+        width: 25%;
+        height: 25%;
+        text-align: center;
+    }
+}
+
+img {
+    height: 15em;
+    width: 17em;
+    border-radius: .5em;
+}
+
+#update {
+    margin: 0 auto;
+}
+
+#update p {
+    margin: 0 5em;
+}
+
+#update ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+#update ul li{
+    width: 100%;
+    padding: 20px 20px;
+   
+    
+}
+
+#update h2 {
+    font-weight: bold;
+}
+#update h4 {
+    margin-top: 1em;
+}

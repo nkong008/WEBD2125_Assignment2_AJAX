@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Luna",
+        "cat": "cat",
+        "age": "2 months",
+        "location": "Saint Paul, MN",
+        "bio": "Meet Luna, the enchanting tabby kitten with a heart full of curiosity and playfulness. This little adventurer loves to explore and discover new nooks and crannies, and her playful antics will surely bring laughter to your home. Luna is not just a kitten; she's a charming companion ready to fill your days with joy and your nights with cuddles. If you're looking for a furry friend to light up your life, Luna is the perfect match!"
+    },
+
+    {
+        "name": "Milo",
+        "dog": "dog",
+        "age": "1 Yrs",
+        "location": "Saint Paul, MN",
+        "bio": "Introducing Milo, the delightful 1-year-old pug. This lovable pug enjoys short walks, cozy naps, and of course, plenty of belly rubs.  If you're seeking a cheerful and affectionate sidekick, Milo is the one-year-old pug ready to bring joy and laughter to your days. Welcome him into your home, and let the endless love and pug charm begin!"
+    },
+
+    {
+        "name": "Oliver",
+        "dog": "dog",
+        "age": "6 Yrs",
+        "location": "Saint Paul, MN",
+        "bio": "Meet Oliver, the gentle and wise 6-year-old pit bull with a heart as strong as his loyal spirit. Oliver is a true ambassador for his breed, showcasing the loving nature and intelligence that pit bulls are known for. Despite his sturdy appearance, Oliver is a sweetheart who adores affection and thrives on human companionship. This mature and well-mannered pit bull is the perfect blend of wisdom and playfulness, making him an ideal addition to a loving home."
+    },
+
+    {
+        "name": "Rosie",
+        "dog": "dog",
+        "age": "3 Yrs",
+        "location": "Saint Paul, MN",
+        "bio": "Meet Rosie, the lively 3-year-old Chihuahua with a heart full of love. Despite her petite size, Rosie exudes confidence and playfulness.  Whether she's curled up on your lap or prancing around with her happy tail, Rosie is sure to bring joy to every moment. If you're seeking a small yet vibrant canine friend, consider adopting Rosie and let her fill your life with love and laughter."
+        
+    },
+    
+    {
+        "name": "Dexter",
+        "cat": "cat",
+        "age": "9 Yrs",
+        "location": "Saint Paul, MN",
+        "bio": "Introducing Dexter, the sophisticated and wise 9-year-old cat with a sleek coat and captivating eyes. Dexter embodies the grace and charm that comes with age, making him a distinguished feline companion. Dexter enjoys leisurely sun-soaked naps, and his calming presence adds a touch of tranquility to any space. If you're looking for a mature and refined feline companion, consider welcoming Dexter into your home."
+        
+    }
+]
