@@ -58,12 +58,11 @@
   width: 25%;
   height: 25%;
   text-align: center;
+  display: inline;
 }
 
 img {
-  height: 15em;
-  width: 17em;
-  border-radius: 0.5em;
+  border-radius: 0.5em 0.5em 0 0;
 }
 
 #update {
@@ -76,15 +75,19 @@ img {
 
 #update ul {
   list-style: none;
-  margin: 0;
   padding: 0;
   margin: 0 auto;
   text-align: center;
+  width: 50%;
 }
-
 #update ul li {
   width: 100%;
   padding: 20px 20px;
+}
+#update ul li img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
 }
 
 #update h2 {
